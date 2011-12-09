@@ -1,3 +1,9 @@
+# Notice!
+
+*I have since updated my deployment process. It is now named 'launch', has its [own repository](http://github.com/bengourley/launch), and is available on npm. I highly recommend that you use that.*
+
+This repository only exists because there is a [blog post](http://blog.clock.co.uk/2011/04/11/deploying-node-js-apps/) that points to it, and it looks like some of you were hitting a 404 at this repo and getting confused (understandably). Please be aware that I won't be developing on this repository, but you can still get in touch if you want to talk about it.
+
 # Node Deployment
 
 Screenshot:
